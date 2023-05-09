@@ -116,63 +116,69 @@ h2 {
 }
 
 .location-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 350px;
     word-wrap: break-word;
     width: 910px;
+    margin: 20px;
 }
 
 .history-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 350px;
     word-wrap: break-word;
     width: 910px;
+    margin: 20px;
 }
 
 .music-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 300px;
     word-wrap: break-word;
     width: 1000px;
+    margin: 20px;
 }
 
 .language-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 350px;
     word-wrap: break-word;
     width: 900px;
+    margin: 20px;
 }
 
 .food-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 350px;
     word-wrap: break-word;
     width: 870px;
+    margin: 20px;
 }
 
 .clothing-container p {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
     color: #d4bb17;
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     margin-left: 350px;
     word-wrap: break-word;
     width: 900px;
+    margin: 20px;
 }
 
 .indian_button {
