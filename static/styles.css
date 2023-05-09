@@ -125,6 +125,16 @@ h2 {
     width: 1000px;
 }
 
+.history-container p {
+    font-size: 1.65rem;
+    color: #d4bb17;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    margin-left: 350px;
+    word-wrap: break-word;
+    width: 1000px;
+}
+
 .music-container p {
     font-size: 1.65rem;
     color: #d4bb17;
