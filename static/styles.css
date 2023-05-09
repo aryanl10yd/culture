@@ -27,7 +27,7 @@ body {
     border-radius: 80px;
 }
 
-.music-container {
+.history-container {
     background-image: linear-gradient(#91ab3a, #67ab3a);
     border-width: 10px;
     border-style: solid;
@@ -38,7 +38,7 @@ body {
     border-radius: 80px;
 }
 
-.language-container {
+.music-container {
     background-image: linear-gradient(#3aab56, #3a9eab);
     border-width: 10px;
     border-style: solid;
@@ -49,7 +49,7 @@ body {
     border-radius: 80px;
 }
 
-.food-container {
+.language-container {
     background-image: linear-gradient(#3a82ab, #3a52ab);
     border-width: 10px;
     border-style: solid;
@@ -60,7 +60,7 @@ body {
     border-radius: 80px;
 }
 
-.clothing-container {
+.food-container {
     background-image: linear-gradient(#523aab, #713aab);
     border-width: 10px;
     border-style: solid;
@@ -71,8 +71,19 @@ body {
     border-radius: 80px;
 }
 
-.resources {
+.clothing-container {
     background-image: linear-gradient(#963aab, #ab3a96);
+    border-width: 10px;
+    border-style: solid;
+    border-color: #c4b343;
+    position: relative;
+    padding-top: 40px;
+    margin-top: 50px;
+    border-radius: 80px;
+}
+
+.resources {
+    background-image: linear-gradient(#ab3a80, #ab3a65);
     border-width: 10px;
     border-style: solid;
     border-color: #c4b343;
