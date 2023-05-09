@@ -212,12 +212,40 @@ h2 {
     transition: 2s;
 }
 
+.taj_mahal img{
+    width: 208px;
+    height: 243px;
+    float: right;
+    border-radius: 50px;
+    margin-right: 60px;
+    transition: 2s;
+}
+
 .india_img img{
     width: 156px;
     height: 182.25px;
     float: right;
     border-radius: 50px;
     margin-right: 80px;
+    transition: 2s;
+}
+
+.food_img1 img{
+    width: 156px;
+    height: 182.25px;
+    float: right;
+    border-radius: 50px;
+    margin-right: 60px;
+    margin-top: 150px;
+    transition: 2s;
+}
+
+.history_img1 img{
+    width: 156px;
+    height: 182.25px;
+    float: right;
+    border-radius: 50px;
+    margin-right: 60px;
     transition: 2s;
 }
 
@@ -244,6 +272,16 @@ h2 {
     float: left;
     border-radius: 50px;
     margin-left: 80px;
+    transition: 3s;
+}
+
+.food_img2 img{
+    width: 183.75px;
+    height: 154.5px;
+    float: left;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-top: 150px;
     transition: 3s;
 }
 
